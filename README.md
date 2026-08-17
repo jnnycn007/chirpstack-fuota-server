@@ -1,5 +1,8 @@
 # ChirpStack FUOTA Server
 
+**Deprecation notice:** This repository has been archived because since
+ChirpStack v4.12.0, FUOTA has been integrated in ChirpStack.
+
 ChirpStack FUOTA Server is an open-source FUOTA server implementation for
 LoRaWAN(R). It integrates with the [ChirpStack](https://www.chirpstack.io/)
 using the HTTP integration (for receiving uplink payloads) and uses the
